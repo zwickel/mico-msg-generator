@@ -1,4 +1,4 @@
-package io.github.ust.mico.createandreceive;
+package io.github.ust.mico.generator;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
